@@ -50,7 +50,7 @@ background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(4, 48, 45, 1) 
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="../View/obs.php">Jobs</a>
+                        <a class="nav-link" href="../View/Jobs.php">Jobs</a>
                     </li>
 
                     <li class="nav-item">
